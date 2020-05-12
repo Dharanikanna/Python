@@ -1,0 +1,5 @@
+A=int(input())
+B=A*(1000)
+c=A*(100000)
+print(B)
+print(c)
