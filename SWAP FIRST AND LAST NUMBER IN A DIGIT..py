@@ -1,0 +1,5 @@
+A = input()
+B = (A[1:len(A)-1])
+print(A[len(A)-1],end="")
+print(B,end="")
+print(A[0])
