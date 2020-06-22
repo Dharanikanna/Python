@@ -1,0 +1,12 @@
+'''
+6.Write a code to generate a square pattern using the number '1'.
+
+        input :
+            5
+'''
+n=1
+R=int(input())
+for i in range(R):
+  for j in range (R):
+    print(n,end="")
+print("")
